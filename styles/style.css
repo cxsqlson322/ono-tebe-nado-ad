@@ -375,7 +375,7 @@
 }
 
 /* Медиа-запросы для адаптивности */
-@media (max-width: 1100px) {
+@media (max-width: 1024px) {
   .header,
   .lots,
   .about,
